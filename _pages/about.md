@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://github.com/bendand'>Github</a>. <a href='https://www.linkedin.com/in/bendavidanderson/'>LinkedIn</a> <a href="mailto:bendanderson13@gmail.com">Send me an email</a>
 
 profile:
   align: right
