@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/bendand'>Github</a>. <a href='https://www.linkedin.com/in/bendavidanderson/'>LinkedIn</a> <a href="mailto:bendanderson13@gmail.com">Send me an email</a>
+subtitle: <a href='https://github.com/bendand'>Github</a>. <a href='https://www.linkedin.com/in/bendavidanderson/'>LinkedIn</a>. <a href="mailto:bendanderson13@gmail.com">Send me an email</a>.
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Ben. I'm a self-taught software developer and passionate problem solver, driven to make an impact with code. I started writing code in 2022, motivated by boredom with my career and the desire to engage my mind more deeply. What began as tepid interest grew into an obsession with becoming a better programmer. Since then, I've been purposefully working toward that goal.      
+Hello! My name is Ben. I'm a self-taught software developer driven to make an impact with code. I started writing code in 2022, motivated by boredom with my career and the desire to engage my mind more deeply. What began as tepid interest grew into an obsession with becoming a better programmer. Since then, I've been pursuing my goal of becoming a professional software developer with focus and resolve.      
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
