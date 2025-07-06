@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/bendand'>Github</a>. <a href='https://www.linkedin.com/in/bendavidanderson/'>LinkedIn</a>. <a href="mailto:bendanderson13@gmail.com">Send me an email</a>. <a href="/Users/benanderson/Downloads/Ben-Anderson-Resume-7.6.2025" download="Ben Anderson's Resume">Download my Resume</a>.
+subtitle: <a href='https://github.com/bendand'>Github</a>. <a href='https://www.linkedin.com/in/bendavidanderson/'>LinkedIn</a>. <a href="mailto:bendanderson13@gmail.com">Send me an email</a>. <a href="/portfolio/Ben-Anderson-Resume-7.6.2025.pdf" download="Ben Anderson's Resume">Download my Resume</a>.
 
 profile:
   align: right
